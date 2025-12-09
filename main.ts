@@ -5,7 +5,7 @@
  * @fileoverview Prints a grid of X's.
  */
 
-// Initiatize the grid.
+// Initialize the grid.
 let grid: string = "";
 
 for (let row: number = 1; row <= 10; row += 1) {
